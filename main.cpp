@@ -1,1 +1,1 @@
-main() {}
+main() {std::cout<<"Hello"}
